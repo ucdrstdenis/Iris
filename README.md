@@ -6,7 +6,7 @@
  
 Iris is the practical implementation of a phase-vocoder, a behind-the-scenes tool commonly used in the music industry. Vocoders are used to shift audio pitch up or down without altering the duration, as well as compress or expand the audio’s duration without changing its original frequency content.
 
-It was a project developed during Winter 2014 for a graduate DSP course at [UC Davis](http://www.ece.ucdavis.edu).
+It was a project developed during Winter 2014 for a graduate Digital Signal Processing (DSP) course at [UC Davis](http://www.ece.ucdavis.edu).
 
 To run the main program, simply load `Iris.m` in Matlab, and click "Run". 
 
