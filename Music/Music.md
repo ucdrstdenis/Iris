@@ -25,8 +25,8 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Fall Out Boy](https://music.apple.com/us/album/wilson-expensive-mistakes/1440904777?i=1440904979)
 * [Elvis Presley](https://itunes.apple.com/us/album/jailhouse-rock/878740947?i=878740957)
 * [Bleachers](https://music.apple.com/us/album/youre-still-a-mystery/884282118?i=884282149)
-* [Avicii](https://music.apple.com/us/album/bad-reputation-feat-joe-janiak/1462628887?i=1462628902)
 * [Logic](https://music.apple.com/us/album/flexicution/1440891782?i=1440891790)
+* [Eve 6](https://music.apple.com/us/album/promise/255276058?i=255276165)
 * [Meat Loaf](https://music.apple.com/us/album/bat-out-of-hell/991385383?i=991385384)
 * [Elton John](https://music.apple.com/us/album/the-bitch-is-back/1440912739?i=1440912747)
 * [Weezer](https://music.apple.com/us/album/mexican-fender/1270328038?i=1270328048)
@@ -56,16 +56,16 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Childish Gambino](https://itunes.apple.com/us/album/freaks-and-geeks/1334324193?i=1334326097) 
 * [Yo-Yo Ma](https://music.apple.com/us/album/cello-suite-no-1-in-g-major-bwv-1007-pr%C3%A9lude/159368810?i=159368880)
 * [Tchaikovsky](https://music.apple.com/us/album/the-nutcracker-suite-op-71a-russian-dance/1494520431?i=1494520438)
-* [Robin Williams](https://itunes.apple.com/us/album/spring/251045206?i=251045385)
+* [Robin Williams](https://music.apple.com/us/album/mens-parts/251045206?i=251045395)
 * [Chris Brown](https://music.apple.com/us/album/ayo/964294743?i=964295256)
 * [Kesha](https://music.apple.com/us/album/woman-feat-the-dap-kings-horns/1253656856?i=1253656859)
 * [Kendrick Lamar](https://music.apple.com/us/album/backseat-freestyle/1440818890?i=1440818964) 
+* [Goldfinger](https://music.apple.com/us/album/99-red-balloons/254823996?i=254825399)
 * [OneRepublic](https://music.apple.com/us/album/connection/1401488622?i=1401489355)
-* [Ed Sheeran](https://itunes.apple.com/us/album/perfect/1193701079?i=1193701400)
 * [Taylor Swift](https://music.apple.com/us/album/champagne-problems/1544268281?i=1544268301)
 * [Logic](https://music.apple.com/us/album/keanu-reeves/1471213961?i=1471214125)
 * [Fall Out Boy](https://music.apple.com/us/album/save-rock-and-roll-feat-elton-john/1440862257?i=1440863149)
-* [Avicii](https://music.apple.com/us/album/broken-arrows/1440834059?i=1440834528)
+* [Avicii](https://music.apple.com/us/album/sunset-jesus/1440834059?i=1033711789)
 * [Stevie Wonder](https://music.apple.com/us/album/faith-feat-ariana-grande/1440863347?i=1440863513)
 * [Gershwin](https://itunes.apple.com/us/album/rhapsody-in-blue/id160708005?i=160708162)
 * [Sheppard](https://music.apple.com/us/album/geronimo/1440829815?i=1440829820)
@@ -74,6 +74,8 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Avicii](https://music.apple.com/us/album/friend-of-mine-feat-vargas-lagola/1440899018?i=1264907296)
 * [DeVotchKa](https://itunes.apple.com/us/album/how-it-ends/id275718968?i=275719055)
 * [The Blues Brothers](https://itunes.apple.com/us/album/everybody-needs-somebody-to-love/id452584443?i=452584459)
+
+
 
 ## [View Playlist on Apple Music](https://music.apple.com/us/playlist/open-your-mind/pl.u-oZylMppI028lv4) ##
 
