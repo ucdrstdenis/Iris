@@ -1,7 +1,7 @@
 # Music & Testing
 While the vocoder can be used with any audio file, a small selection of music and recorded audio have been included for testing. The selection is mildly eclectic, as it allows for experimentation across a wide variety of frequency bands, unique sound effects, and power spectral densities. 
 
-A guitar scale and acapella clip have been included free of charge - the remainder of the inclusions must be purchased through iTunes. Acapella clip courtesy of: [The Morning Benders](https://itun.es/us/6U4tv?i=357534656) 
+A guitar scale and acapella clip have been included - the remainder of the music must be purchased through iTunes or downloaded directly. Acapella clip courtesy of: [The Morning Benders](https://itun.es/us/6U4tv?i=357534656) 
 
 #### Optimal Volume for Audio & Kinesthetic Analysis: 79+ dB SPL
 
