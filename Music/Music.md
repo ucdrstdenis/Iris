@@ -5,7 +5,8 @@ A guitar scale and acapella clip have been included free of charge - the remaind
 
 #### Optimal Volume for Audio & Kinesthetic Analysis: 79+ dB SPL
 
-Some tracks have an inordinately inappropriate and/or explicit guarantee. Views expressed do not necessarily reflect the views of, etc. Disclaimer. Nevertheless, [fun tunes & sick beats.](https://music.apple.com/us/album/lovegame/1440818588?i=1440818656)
+Some tracks have an inordinately inappropriate and/or explicit guarantee. Views expressed do not necessarily reflect the views of, etc. Disclaimer. Nevertheless, fun tunes & sick beats.
+
 ### Please Purchase All Music ###
 * [Bobby St. Denis](../Music/You_Without_Me.m4a)
 * [Radiohead](https://itunes.apple.com/us/album/everything-in-its-right-place/id1097862870?i=1097863108)
