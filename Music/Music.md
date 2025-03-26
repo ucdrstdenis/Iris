@@ -17,7 +17,6 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Logic](https://music.apple.com/us/album/flexicution/1440891782?i=1440891790)
 * [Elton John](https://music.apple.com/us/album/the-bitch-is-back/1440912739?i=1440912747)
 * [Weezer](https://music.apple.com/us/album/mexican-fender/1270328038?i=1270328048)
-* [Bazzi](https://music.apple.com/us/album/beautiful/1369438774?i=1369439269)
 * [Red Hot Chili Peppers](https://music.apple.com/us/album/make-you-feel-better/945562992?i=945569019)
 * [Joyner Lucas + Logic](https://music.apple.com/us/album/isis-feat-logic/1464996782?i=1464996799)
 * [2008 Recording Session [JTM and AC]](../Music/08_This_Isn't_It.m4a) 
