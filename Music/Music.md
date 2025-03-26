@@ -27,8 +27,6 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Tchaikovsky](https://music.apple.com/us/album/the-nutcracker-suite-op-71a-russian-dance/1494520431?i=1494520438)
 * [Robin Williams](https://music.apple.com/us/album/mens-parts/251045206?i=251045395)
 * [Chris Brown](https://music.apple.com/us/album/ayo/964294743?i=964295256) 
-* [Goldfinger](https://music.apple.com/us/album/99-red-balloons/254823996?i=254825399)
-* [Logic](https://music.apple.com/us/album/keanu-reeves/1471213961?i=1471214125)
 * [Taylor Swift](https://music.apple.com/us/album/holy-ground-taylors-version/1590368448?i=1590368464)
 * [DeVotchKa](https://itunes.apple.com/us/album/how-it-ends/id275718968?i=275719055)
 * [The Blues Brothers](https://itunes.apple.com/us/album/everybody-needs-somebody-to-love/id452584443?i=452584459)
