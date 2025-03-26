@@ -8,7 +8,6 @@ A guitar scale and acapella clip have been included free of charge - the remaind
 Some tracks have an inordinately inappropriate and/or explicit guarantee. Views expressed do not necessarily reflect the views of, etc. Disclaimer. Nevertheless, fun tunes & sick beats.
 
 ### Please Purchase All Music ###
-* [Bobby St. Denis](../Music/You_Without_Me.m4a)
 * [Radiohead](https://itunes.apple.com/us/album/everything-in-its-right-place/id1097862870?i=1097863108)
 * [Fitz and The Tantrums](https://music.apple.com/us/album/fool/1262462639?i=1262462644)
 * [Imagine Dragons](https://music.apple.com/us/album/thunder/1411625594?i=1411629089)
@@ -23,8 +22,8 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Bazzi](https://music.apple.com/us/album/beautiful/1369438774?i=1369439269)
 * [Red Hot Chili Peppers](https://music.apple.com/us/album/make-you-feel-better/945562992?i=945569019)
 * [Joyner Lucas + Logic](https://music.apple.com/us/album/isis-feat-logic/1464996782?i=1464996799)
-* [2008 Recording Session w/ J.T.M and A.C.](../Music/08_This_Isn't_It.m4a) 
-* [Busta Rhymes](https://music.apple.com/us/album/break-ya-neck/1506982209?i=1506982358)
+* [2008 Recording Session [JTM and AC]](../Music/08_This_Isn't_It.m4a) 
+* [Jackson Pines](https://music.apple.com/us/album/even-when-im-gone/1779944939?i=1779944940)
 * [Beethoven](https://music.apple.com/us/album/symphony-no-2-in-d-op-36-iv-allegro-molto/1452136976?i=1452137968)
 * [Taylor Swift](https://music.apple.com/us/album/lover/1468058165?i=1468058173)
 * [Queens of the Stone Age](https://music.apple.com/us/album/the-way-you-used-to-do/1586488985?i=1586489509)
@@ -37,6 +36,7 @@ Some tracks have an inordinately inappropriate and/or explicit guarantee. Views 
 * [Taylor Swift](https://music.apple.com/us/album/holy-ground-taylors-version/1590368448?i=1590368464)
 * [DeVotchKa](https://itunes.apple.com/us/album/how-it-ends/id275718968?i=275719055)
 * [The Blues Brothers](https://itunes.apple.com/us/album/everybody-needs-somebody-to-love/id452584443?i=452584459)
+* [Bobby St. Denis [Recorded by JTM]](../Music/You_Without_Me.m4a)
 
 
 
