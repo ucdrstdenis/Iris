@@ -1,7 +1,7 @@
 # Music & Testing
 While the vocoder can be used with any audio file, a small selection of music and recorded audio have been included for testing. The selection is mildly eclectic, as it allows for experimentation across a wide variety of frequency bands, unique sound effects, and power spectral densities. 
 
-A guitar scale and acapella clip have been included - the remainder of the music must be purchased through iTunes or downloaded directly. Acapella clip courtesy of: [The Morning Benders](https://itun.es/us/6U4tv?i=357534656) 
+A guitar scale and acapella clip have been included - the remainder of the music must be purchased through iTunes or downloaded directly. 
 
 Some tracks have an inordinately inappropriate and/or explicit guarantee. Views expressed do not necessarily reflect the views of, etc. Disclaimer. Nevertheless, fun tunes & sick beats.
 
